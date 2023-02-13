@@ -7,9 +7,10 @@
 
 ## Hot Keys
 
-| Hot Key | Meaning                 |
-| ------- | ----------------------- |
-| `z+d`   | Scroll down a few lines |
-| `z+u`   | Scroll up a few lines   |
-| `z+j`   | Scroll down 1 line      |
-| `z+k`   | Scroll up 1 line        |
+| Hot Key | Meaning                                        |
+| ------- | ---------------------------------------------- |
+| `z+d`   | Scroll down a few lines                        |
+| `z+u`   | Scroll up a few lines                          |
+| `z+j`   | Scroll down 1 line                             |
+| `z+k`   | Scroll up 1 line                               |
+| `z+m`   | Move cursor to the middle of the active window |
