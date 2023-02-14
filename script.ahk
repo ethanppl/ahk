@@ -5,10 +5,9 @@
 CapsLock::Ctrl
 
 ; z& for Custom Controls
+z::z
 
 ; Scrolling
-z::Send "z"
-+z::Send "Z"
 z & d::Send "{WheelDown 4}"
 z & u::Send "{WheelUp 4}"
 z & j::Send "{WheelDown 1}"

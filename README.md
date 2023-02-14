@@ -14,3 +14,7 @@
 | `z+j`   | Scroll down 1 line                             |
 | `z+k`   | Scroll up 1 line                               |
 | `z+m`   | Move cursor to the middle of the active window |
+
+## Notes
+
+- [For "custom combinations" to work properly](https://www.autohotkey.com/boards/viewtopic.php?t=35440)
