@@ -8,8 +8,8 @@ CapsLock::Ctrl
 z::z
 
 ; Scrolling
-z & d::Send "{WheelDown 4}"
-z & u::Send "{WheelUp 4}"
+z & d::Send "{WheelDown 5}"
+z & u::Send "{WheelUp 5}"
 z & j::Send "{WheelDown 1}"
 z & k::Send "{WheelUp 1}"
 
