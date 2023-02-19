@@ -14,6 +14,8 @@
 | `z+j`   | Scroll down 1 line                             |
 | `z+k`   | Scroll up 1 line                               |
 | `z+m`   | Move cursor to the middle of the active window |
+| `z+,`   | Move cursor to the left                        |
+| `z+.`   | Move cursor to the right                       |
 
 ## Notes
 
