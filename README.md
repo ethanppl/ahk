@@ -3,7 +3,6 @@
 ## Remap
 
 - `CapsLock` key is the same as `Ctrl` key
-- Short press `CapsLock` key will also fire `Esc`
 - Use `Shift+CapsLock` to toggle `CapsLock`
 
 ## Hot Keys
