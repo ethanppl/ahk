@@ -2,7 +2,22 @@
 
 ; CapsLock 
 +CapsLock::CapsLock
-CapsLock::Ctrl
+cDown := 0
+CapsLock::
+{
+  global cDown
+  Send "{Ctrl Down}"
+  cDown := A_TickCount
+}
+CapsLock up::
+{
+  global cDown
+  if ((A_TickCount - cDown) < 250) {
+    Send "{Ctrl Up}{Esc}"
+  } else {
+    Send "{Ctrl Up}"
+  }
+}
 
 ; z& for Custom Controls
 z::z
