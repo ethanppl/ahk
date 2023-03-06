@@ -1,0 +1,10 @@
+#SingleInstance Force
+
+; z& for Custom Controls
+z::z
+
+; Email address
+z & e::
+{
+  Send "email@example.com"
+}

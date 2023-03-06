@@ -1,5 +1,7 @@
 # AutoHotKey
 
+AutoHotKey scripts, they are in `scripts.ahk` or `phrases.ahk.example`.
+
 ## Remap
 
 - `CapsLock` key is the same as `Ctrl` key
@@ -16,6 +18,7 @@
 | `z+m`   | Move cursor to the middle of the active window |
 | `z+,`   | Move cursor to the left                        |
 | `z+.`   | Move cursor to the right                       |
+| `z+e`   | Insert email address                           |
 
 ## Notes
 
