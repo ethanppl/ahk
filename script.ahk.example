@@ -33,3 +33,9 @@ z & .::
   WinGetPos , , &Width, &Height, "A"
   MouseMove Width/10, 0, 0, "R"
 }
+
+; Email address
+z & e::
+{
+  Send "todo@email.com"
+}

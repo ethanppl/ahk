@@ -1,6 +1,6 @@
 # AutoHotKey
 
-AutoHotKey scripts, they are in `scripts.ahk` or `phrases.ahk.example`.
+AutoHotKey scripts, see `scripts.ahk.example` and fix all the `todo`.
 
 ## Remap
 
