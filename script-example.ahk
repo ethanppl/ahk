@@ -39,3 +39,9 @@ z & e::
 {
   Send "todo@email.com"
 }
+
+; Send em dash '—'
+z & -::
+{
+  Send "—"
+}
