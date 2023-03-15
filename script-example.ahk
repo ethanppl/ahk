@@ -45,3 +45,9 @@ z & -::
 {
   Send "—"
 }
+
+; Right click
+z & Space::
+{
+  Send "{AppsKey}"
+}
