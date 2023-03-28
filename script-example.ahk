@@ -51,3 +51,9 @@ z & Space::
 {
   Send "{AppsKey}"
 }
+
+; Ctrl+Shift+V
+z & v::
+{
+  Send "^+v"
+}

@@ -21,6 +21,7 @@ AutoHotKey scripts, see `scripts-example.ahk` and fix all the `todo`.
 | `z+e`     | Insert email address                           |
 | `z+-`     | Insert em dash ('—')                           |
 | `z+space` | Right click                                    |
+| `z+v`     | Map to `Ctrl+Shift+v`                          |
 
 ## Notes
 
