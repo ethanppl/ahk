@@ -35,38 +35,20 @@ z & .::
 }
 
 ; Email address
-z & e::
-{
-  Send "todo@email.com"
-}
+z & e::Send "todo@email.com"
 
 ; Right click
-z & Space::
-{
-  Send "{AppsKey}"
-}
+z & Space::Send "{AppsKey}"
 
-; Ctrl+Shift+V
-z & v::
-{
-  Send "^+v"
-}
+; Control+Shift+V
+z & v::Send "^+v"
 
 ; Special characters
 ; Send em dash '—'
-::--::
-{
-  Send "—"
-}
+::--::—
 
 ; Send right arrow '→'
-::->::
-{
-  Send "→"
-}
+::->::→
 
 ; Send left arrow '←'
-::<-::
-{
-  Send "←"
-}
+::<-::←
