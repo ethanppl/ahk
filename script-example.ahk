@@ -44,11 +44,14 @@ z & Space::Send "{AppsKey}"
 z & v::Send "^+v"
 
 ; Special characters
-; Send em dash '—'
-::--::—
+; Em dash '—'
+::|--::—
 
-; Send right arrow '→'
-::->::→
+; Right arrow '→'
+::|->::→
 
-; Send left arrow '←'
-::<-::←
+; Left arrow '←'
+::|<-::←
+
+; Not equal '≠'
+::|!=::≠

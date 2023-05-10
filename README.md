@@ -24,11 +24,14 @@ AutoHotKey scripts, see `scripts-example.ahk` and fix all the `todo`.
 
 ## Hot Strings
 
-| From | To                |
-| ---- | ----------------- |
-| `--` | Em dash ('—')     |
-| `->` | Right arrow ('→') |
-| `<-` | Left arrow ('←')  |
+| From   | To                |
+| ------ | ----------------- |
+| `\|--` | Em dash ('—')     |
+| `\|->` | Right arrow ('→') |
+| `\|<-` | Left arrow ('←')  |
+| `\|!=` | Not equal ('≠')   |
+
+- Having `|` in front is less convenient, but it can avoid surprises
 
 ## Notes
 
@@ -36,3 +39,4 @@ AutoHotKey scripts, see `scripts-example.ahk` and fix all the `todo`.
 - Run script automatically on Windows startup
   - Build script to exe with Ahk2Exe ([reference](https://stackoverflow.com/questions/23208646/how-do-i-create-a-standalone-exe-with-autohotkey))
   - Create shortcut to the script in `%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup` ([reference](https://stackoverflow.com/questions/41723490/how-to-build-ahk-scripts-automatically-on-startup))
+- [Hot strings special characters reference](https://gist.github.com/endolith/823381)
