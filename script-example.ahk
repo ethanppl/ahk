@@ -40,12 +40,6 @@ z & e::
   Send "todo@email.com"
 }
 
-; Send em dash '—'
-z & -::
-{
-  Send "—"
-}
-
 ; Right click
 z & Space::
 {
@@ -56,4 +50,23 @@ z & Space::
 z & v::
 {
   Send "^+v"
+}
+
+; Special characters
+; Send em dash '—'
+::--::
+{
+  Send "—"
+}
+
+; Send right arrow '→'
+::->::
+{
+  Send "→"
+}
+
+; Send left arrow '←'
+::<-::
+{
+  Send "←"
 }

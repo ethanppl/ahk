@@ -19,9 +19,16 @@ AutoHotKey scripts, see `scripts-example.ahk` and fix all the `todo`.
 | `z+,`     | Move cursor to the left                        |
 | `z+.`     | Move cursor to the right                       |
 | `z+e`     | Insert email address                           |
-| `z+-`     | Insert em dash ('—')                           |
 | `z+space` | Right click                                    |
 | `z+v`     | Map to `Ctrl+Shift+v`                          |
+
+## Hot Strings
+
+| From | To                |
+| ---- | ----------------- |
+| `--` | Em dash ('—')     |
+| `->` | Right arrow ('→') |
+| `<-` | Left arrow ('←')  |
 
 ## Notes
 
