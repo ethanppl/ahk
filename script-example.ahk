@@ -44,14 +44,17 @@ z & Space::Send "{AppsKey}"
 z & v::Send "^+v"
 
 ; Special characters
+; Remove '-' hyphen from being an end character
+#Hotstring EndChars ()[]{}':;"/\,.?!`n `t
+
 ; Em dash '—'
-::|--::—
+:?:|--::—
 
 ; Right arrow '→'
-::|->::→
+:?:|->::→
 
 ; Left arrow '←'
-::|<-::←
+:?:|<-::←
 
 ; Not equal '≠'
-::|!=::≠
+:?:|!=::≠
