@@ -24,12 +24,16 @@ AutoHotKey scripts, see `scripts-example.ahk` and fix all the `todo`.
 
 ## Hot Strings
 
-| From   | To                |
-| ------ | ----------------- |
-| `\|--` | Em dash ('—')     |
-| `\|->` | Right arrow ('→') |
-| `\|<-` | Left arrow ('←')  |
-| `\|!=` | Not equal ('≠')   |
+| From      | To                       |
+| --------- | ------------------------ |
+| `\|--`    | Em dash ('—')            |
+| `\|->`    | Right arrow ('→')        |
+| `\|<-`    | Left arrow ('←')         |
+| `\|!=`    | Not equal ('≠')          |
+| `+-`      | Plus-or-minus-sign ('±') |
+| `\|minus` | True minus sign ('−')    |
+| `\|times` | True times sign ('×')    |
+| `\|div`   | Division sign ('÷')      |
 
 - Having `|` in front is less convenient, but it can avoid surprises
 

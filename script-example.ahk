@@ -58,3 +58,9 @@ z & v::Send "^+v"
 
 ; Not equal '≠'
 :?:|!=::≠
+
+; Maths
+:?*:+-::±       ; plus-or-minus sign
+:?:|minus::−    ; true minus sign
+:?:|times::×    ; true times sign
+:?:|div::÷      ; division sign
