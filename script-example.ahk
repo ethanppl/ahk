@@ -63,3 +63,6 @@ z & v::Send "^+v"
 :?O:|minus::−    ; true minus sign
 :?O:|times::×    ; true times sign
 :?O:|div::÷      ; division sign
+
+; Ellipsis
+:?O:...::…

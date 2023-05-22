@@ -35,6 +35,7 @@ AutoHotKey scripts, see `scripts-example.ahk` and fix all the `todo`.
 | `\|minus` | True minus sign ('−')    |
 | `\|times` | True times sign ('×')    |
 | `\|div`   | Division sign ('÷')      |
+| `...`     | Ellipsis ('…')           |
 
 - Having `|` in front is less convenient, but it can avoid surprises
 
