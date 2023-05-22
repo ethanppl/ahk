@@ -48,19 +48,18 @@ z & v::Send "^+v"
 #Hotstring EndChars ()[]{}':;"/\,.?!`n `t
 
 ; Em dash '—'
-:?:|--::—
-
-; Right arrow '→'
-:?:|->::→
-
-; Left arrow '←'
-:?:|<-::←
+:?O:|--::—
 
 ; Not equal '≠'
-:?:|!=::≠
+:?O:|!=::≠
+
+; Arrows
+:?O:|->::→
+:?O:|<-::←
+:?O:|<->::↔
 
 ; Maths
-:?*:+-::±       ; plus-or-minus sign
-:?:|minus::−    ; true minus sign
-:?:|times::×    ; true times sign
-:?:|div::÷      ; division sign
+:?O:+-::±       ; plus-or-minus sign
+:?O:|minus::−    ; true minus sign
+:?O:|times::×    ; true times sign
+:?O:|div::÷      ; division sign

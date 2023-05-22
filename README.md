@@ -27,9 +27,10 @@ AutoHotKey scripts, see `scripts-example.ahk` and fix all the `todo`.
 | From      | To                       |
 | --------- | ------------------------ |
 | `\|--`    | Em dash ('—')            |
+| `\|!=`    | Not equal ('≠')          |
 | `\|->`    | Right arrow ('→')        |
 | `\|<-`    | Left arrow ('←')         |
-| `\|!=`    | Not equal ('≠')          |
+| `\|<->`   | Arrow ('↔')              |
 | `+-`      | Plus-or-minus-sign ('±') |
 | `\|minus` | True minus sign ('−')    |
 | `\|times` | True times sign ('×')    |
