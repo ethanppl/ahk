@@ -9,18 +9,18 @@ AutoHotKey scripts, see `scripts-example.ahk` and fix all the `todo`.
 
 ## Hot Keys
 
-| Hot Key   | Meaning                                        |
-| --------- | ---------------------------------------------- |
-| `z+d`     | Scroll down a few lines                        |
-| `z+u`     | Scroll up a few lines                          |
-| `z+j`     | Scroll down 1 line                             |
-| `z+k`     | Scroll up 1 line                               |
-| `z+m`     | Move cursor to the middle of the active window |
-| `z+,`     | Move cursor to the left                        |
-| `z+.`     | Move cursor to the right                       |
-| `z+e`     | Insert email address                           |
-| `z+space` | Right click                                    |
-| `z+v`     | Map to `Ctrl+Shift+v`                          |
+| Hot Key      | Meaning                                        |
+| ------------ | ---------------------------------------------- |
+| `z+d`        | Scroll down a few lines                        |
+| `z+u`        | Scroll up a few lines                          |
+| `z+j`        | Scroll down 1 line                             |
+| `z+k`        | Scroll up 1 line                               |
+| `z+m`        | Move cursor to the middle of the active window |
+| `z+,`        | Move cursor to the left                        |
+| `z+.`        | Move cursor to the right                       |
+| `z+e`, `z+g` | Insert email address                           |
+| `z+space`    | Right click                                    |
+| `z+v`        | Map to `Ctrl+Shift+v`                          |
 
 ## Hot Strings
 

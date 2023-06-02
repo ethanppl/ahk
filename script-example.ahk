@@ -36,6 +36,7 @@ z & .::
 
 ; Email address
 z & e::Send "todo@email.com"
+z & g::Send "todo@email.com"
 
 ; Right click
 z & Space::Send "{AppsKey}"
