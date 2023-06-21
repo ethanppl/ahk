@@ -7,6 +7,10 @@ CapsLock::Ctrl
 ; z& for Custom Controls
 z::z
 
+; Fix z from blocking normal english combo
+z & i::Send "zi"
+z & o::Send "zo"
+
 ; Scrolling
 z & d::Send "{WheelDown 5}"
 z & u::Send "{WheelUp 5}"
