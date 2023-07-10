@@ -26,18 +26,18 @@ AutoHotKey scripts, see `scripts-example.ahk` and fix all the `todo`.
 
 | From      | To                       |
 | --------- | ------------------------ |
-| `\|--`    | Em dash ('—')            |
-| `\|!=`    | Not equal ('≠')          |
-| `\|->`    | Right arrow ('→')        |
-| `\|<-`    | Left arrow ('←')         |
+| `\|--`    | Em dash (`—`)            |
+| `\|!=`    | Not equal (`≠`)          |
+| `\|->`    | Right arrow (`→`)        |
+| `\|<-`    | Left arrow (`←`)         |
 | `\|^`     | Up arrow (`↑`)           |
 | `\|v`     | Down arrow (`↓`)         |
-| `\|<->`   | Arrow ('↔')              |
-| `+-`      | Plus-or-minus-sign ('±') |
-| `\|minus` | True minus sign ('−')    |
-| `\|times` | True times sign ('×')    |
-| `\|div`   | Division sign ('÷')      |
-| `...`     | Ellipsis ('…')           |
+| `\|<->`   | Arrow (`↔`)              |
+| `+-`      | Plus-or-minus-sign (`±`) |
+| `\|minus` | True minus sign (`−`)    |
+| `\|times` | True times sign (`×`)    |
+| `\|div`   | Division sign (`÷`)      |
+| `...`     | Ellipsis (`…`)           |
 
 - Having `|` in front is less convenient, but it can avoid surprises
 
