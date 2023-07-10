@@ -30,6 +30,8 @@ AutoHotKey scripts, see `scripts-example.ahk` and fix all the `todo`.
 | `\|!=`    | Not equal ('≠')          |
 | `\|->`    | Right arrow ('→')        |
 | `\|<-`    | Left arrow ('←')         |
+| `\|^`     | Up arrow (`↑`)           |
+| `\|v`     | Down arrow (`↓`)         |
 | `\|<->`   | Arrow ('↔')              |
 | `+-`      | Plus-or-minus-sign ('±') |
 | `\|minus` | True minus sign ('−')    |
