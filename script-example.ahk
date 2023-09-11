@@ -1,8 +1,18 @@
 ﻿#SingleInstance Force
 
-; CapsLock 
+; Remap CapsLock to Escape when pressed alone and Control when used with other keys
+CapsLock::
+{
+    Send("{Ctrl Down}")
+    KeyWait("CapsLock")
+    Send("{Ctrl Up}")
+    if (A_PriorKey = "CapsLock") {
+        Send("{Escape}")
+    }
+}
+
+; Remap Shift + CapsLock to CapsLock
 +CapsLock::CapsLock
-CapsLock::Ctrl
 
 ; z& for Custom Controls
 z::z

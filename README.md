@@ -4,8 +4,9 @@ AutoHotKey scripts, see `scripts-example.ahk` and fix all the `todo`.
 
 ## Remap
 
-- `CapsLock` key is the same as `Ctrl` key
-- Use `Shift+CapsLock` to toggle `CapsLock`
+- `CapsLock` key is the same as `Ctrl` key when used with other keys
+- `CapsLock` key works as an Escape key when pressed alone
+- `Shift+CapsLock` combination works as normal `CapsLock`
 
 ## Hot Keys
 
